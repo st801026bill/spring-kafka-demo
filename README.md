@@ -36,13 +36,14 @@ Step 3：在 Terminal 分頁各別執行 Producer 和 Consumer 發佈和訂閱 T
 **二. Spring 實作與執行** 
 ---
 Step 1:
-```sql
-啟動 Zookeeper 與 Kafka Server
-並執行 SpringKafkaProducerApplication、SpringKafkaConsumerApplication
-```
+啟動 Zookeeper 與 Kafka Server  
+以及 SpringKafkaProducerApplication、SpringKafkaConsumerApplication
+
 Step2:
-進入swagger介面 `http://localhost:8888/kafka-producer/swagger-ui/index.html#/ProducerController/post`
+進入swagger介面 `http://localhost:8888/kafka-producer/swagger-ui/index.html#/ProducerController/post`  
 並執行 "kafka 發布訊息" API
+![image](https://github.com/st801026bill/spring-kafka-demo/blob/master/swagger.png)
+![image](https://github.com/st801026bill/spring-kafka-demo/blob/master/consumer_log.png)
 
 **三. 例外與錯誤處理** 
 ---
