@@ -48,9 +48,9 @@ Step2:
 **三. 例外與錯誤處理** 
 ---
 **1. 毒藥訊息 : 因consumer 反序列化異常導致**
-  - 使用ErrorHandlingDeserializer處理，避免進入死循環
-  ![image](https://github.com/st801026bill/spring-kafka-demo/blob/master/pic/3-1A.png)
-  ![image](https://github.com/st801026bill/spring-kafka-demo/blob/master/pic/3-1B.png)
+  - 使用ErrorHandlingDeserializer處理，避免進入死循環  
+  ![image](https://github.com/st801026bill/spring-kafka-demo/blob/master/pic/3-1A.png)  
+  ![image](https://github.com/st801026bill/spring-kafka-demo/blob/master/pic/3-1B.png)  
   
 **2. 發佈後處理**
   - Producer : callback處理
