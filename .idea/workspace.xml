@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e6fbb03f-9469-4cae-bd42-a5d605cb8adf" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumer_log.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swagger.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,20 +33,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/workspace/Bill/spring-kafka-demo",
-    "nodejs_package_manager_path": "npm",
-    "spring.configuration.checksum": "e5eb27b7ca7b3ca6dc24e4f4ea0dbf14"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/workspace/Bill/spring-kafka-demo&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;e5eb27b7ca7b3ca6dc24e4f4ea0dbf14&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Spring Boot.SpringKafkaConsumerApplication">
     <configuration name="SpringKafkaConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="spring-kafka-consumer" />
@@ -74,7 +76,8 @@
       <workItem from="1650851983911" duration="306000" />
       <workItem from="1650852315297" duration="24000" />
       <workItem from="1650852375701" duration="713000" />
-      <workItem from="1650853269466" duration="1032000" />
+      <workItem from="1650853269466" duration="1745000" />
+      <workItem from="1650953764320" duration="1339000" />
     </task>
     <servers />
   </component>
