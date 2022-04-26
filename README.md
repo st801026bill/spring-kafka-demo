@@ -42,15 +42,16 @@ Step 1:
 Step2:
 進入swagger介面 `http://localhost:8888/kafka-producer/swagger-ui/index.html#/ProducerController/post`  
 並執行 "kafka 發布訊息" API
-![image](https://github.com/st801026bill/spring-kafka-demo/blob/master/swagger.png)
-![image](https://github.com/st801026bill/spring-kafka-demo/blob/master/consumer_log.png)
+![image](https://github.com/st801026bill/spring-kafka-demo/blob/master/pic/swagger.png)
+![image](https://github.com/st801026bill/spring-kafka-demo/blob/master/pic/consumer_log.png)
 
 **三. 例外與錯誤處理** 
 ---
 **1. 毒藥訊息 : 因consumer 反序列化異常導致**
   - 使用ErrorHandlingDeserializer處理，避免進入死循環
-  ```sql
-  ```
+  ![image](https://github.com/st801026bill/spring-kafka-demo/blob/master/pic/3-1A.png)
+  ![image](https://github.com/st801026bill/spring-kafka-demo/blob/master/pic/3-1B.png)
+  
 **2. 發佈後處理**
   - Producer : callback處理
   ```sql
